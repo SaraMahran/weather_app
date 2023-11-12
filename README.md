@@ -1,4 +1,3 @@
-The Local Weather Application 
 
 # vue-project
 
