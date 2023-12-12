@@ -1,3 +1,5 @@
+You can find the website hosted using Netlify from here:
+https://main--shimmering-kitten-a46232.netlify.app/
 
 # vue-project
 
